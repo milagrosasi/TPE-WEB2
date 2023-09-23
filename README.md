@@ -1,7 +1,8 @@
 # TPE-WEB2
 ***
 ## Integrantes: 
-Asi Milagros (milagrosasi95@gmail.com), Asi Micaela (micaela.asic@gmail.com).
+- Asi Milagros (milagrosasi95@gmail.com)
+- Asi Micaela (micaela.asic@gmail.com).
 ***
 ## Temática:
 Tienda de vinos.
