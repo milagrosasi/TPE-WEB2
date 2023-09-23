@@ -1,6 +1,6 @@
 # TPE-WEB2
 ***
-### Integrantes: 
+## Integrantes: 
 Asi Milagros (milagrosasi95@gmail.com), Asi Micaela (micaela.asic@gmail.com).
 ***
 ## Temática:
